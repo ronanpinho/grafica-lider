@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px"><g><g>
+	<path d="M331,0v287c0,41.355-33.645,75-75,75s-75-33.645-75-75V0H31v287c0,124.357,100.632,225,225,225   c124.357,0,225-100.632,225-225V0H331z M61,30h90v91H61V30z M451,287c0,107.523-87.477,195-195,195S61,394.523,61,287V151h90v136   c0,57.897,47.103,105,105,105s105-47.103,105-105V151h90V287z M451,121h-90V30h90V121z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#727777"/>
+	<polygon points="213.52,187.68 238.48,204.32 314.027,91 254.027,91 298.48,24.32 273.52,7.68 197.973,121 257.973,121  " data-original="#000000" class="active-path" data-old_color="#000000" fill="#727777"/>
+</g></g> </svg>

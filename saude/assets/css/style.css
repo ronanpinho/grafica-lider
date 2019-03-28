@@ -2610,8 +2610,8 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 .btn-danger:not(:disabled):not(.disabled).active, .btn-danger:not(:disabled):not(.disabled):active, .show > .btn-danger.dropdown-toggle {
     color: #FFF;
-    background-color: #BD2130;
-    border-color: #B21F2D
+    background-color: #1f6bb5;
+    border-color: #1f6bb5
 }
 
 .btn-light.focus, .btn-light:focus, .btn-light:not(:disabled):not(.disabled).active:focus, .btn-light:not(:disabled):not(.disabled):active:focus, .show > .btn-light.dropdown-toggle:focus {
@@ -4571,7 +4571,7 @@ tbody.collapse.show {
 .badge-danger[href]:focus, .badge-danger[href]:hover {
     color: #FFF;
     text-decoration: none;
-    background-color: #BD2130
+    background-color: #1f6bb5
 }
 
 .badge-light {
@@ -5688,7 +5688,7 @@ a.bg-warning:focus, a.bg-warning:hover, button.bg-warning:focus, button.bg-warni
 }
 
 a.bg-danger:focus, a.bg-danger:hover, button.bg-danger:focus, button.bg-danger:hover {
-    background-color: #BD2130 !important
+    background-color: #1f6bb5 !important
 }
 
 .bg-light {
@@ -8551,7 +8551,7 @@ a.text-warning:focus, a.text-warning:hover {
 }
 
 a.text-danger:focus, a.text-danger:hover {
-    color: #BD2130 !important
+    color: #1f6bb5 !important
 }
 
 .text-light {
@@ -11767,7 +11767,7 @@ a.back-to-top i {
     height: 40px;
     line-height: 40px;
     color: #FFF;
-    background: #a2bb3b;
+    background: #1f6bb5;
     border-radius: 2px;
     text-align: center;
     transition: all .2s ease-in-out;
@@ -11996,11 +11996,11 @@ a.back-to-top i {
 
 .top-nav-collapse .navbar-nav .nav-link:hover {
     cursor: pointer;
-    color: #a2bb3b !important
+    color: #1f6bb5 !important
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
-    color: #a2bb3b !important
+    color: #1f6bb5 !important
 }
 
 .indigo {
@@ -12040,7 +12040,7 @@ a.back-to-top i {
 }
 
 .navbar-expand-lg .navbar-nav li .active > a, .navbar-expand-lg .navbar-nav li a:focus, .navbar-expand-lg .navbar-nav li a:hover {
-    color: #a2bb3b;
+    color: #1f6bb5;
     outline: 0
 }
 
@@ -12049,7 +12049,7 @@ a.back-to-top i {
 }
 
 .navbar li.active a.nav-link {
-    color: #a2bb3b
+    color: #1f6bb5
 }
 
 .dropdown-toggle::after {
@@ -12448,7 +12448,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .services {
-    background:#a2bb3b
+    background:#1f6bb5
 }
 
 .services-item {
@@ -12546,7 +12546,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .footer-right-contact .contact-icon {
-    background: #BD2130;
+    background: #1f6bb5;
     color: #FFF;
     border-radius: 50%;
     font-size: 20px;
@@ -12606,8 +12606,8 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .footer-area .footer-text p a {
-    color: #a2bb3b;
-    border-bottom: 1px dotted #a2bb3b
+    color: #1f6bb5;
+    border-bottom: 1px dotted #1f6bb5
 }
 
 .footer-area .footer-text .nav-inline .nav-link {
@@ -13782,7 +13782,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .btn-alt:hover {
-    background: #a2bb3b
+    background: #1f6bb5
 }
 
 @media (max-width: 768px) {
@@ -13952,7 +13952,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 #depoimento .profile-wrapper .d-nome {
     text-align: right;
     font-size: 18px;
-    color: #a2bb3b !important;
+    color: #1f6bb5 !important;
     margin-bottom: 0;
 }
 
@@ -14070,7 +14070,7 @@ table caption {
 .footer-right-area .profile-wrapper .d-nome {
     text-align: right;
     font-size: 18px;
-    color: #a2bb3b !important;
+    color: #1f6bb5 !important;
     margin-bottom: 0;
 }
 
@@ -14104,16 +14104,16 @@ table caption {
 }
 
 .controls .active, .slicknav_btn {
-    border-color: #a2bb3b;
+    border-color: #1f6bb5;
 }
 
 
 .slicknav_menu .slicknav_icon-bar {
-    background: #a2bb3b;
+    background: #1f6bb5;
 }
 
 .slicknav_nav .active, .slicknav_nav a:focus, .slicknav_nav a:hover {
-    color: #a2bb3b;
+    color: #1f6bb5;
 }
 
 #planos {
@@ -14230,6 +14230,10 @@ table caption {
     }
 }
 
+#servicos .services-content {
+    min-height: 185px;
+}
+
 .contagem {
     border: 2px solid #fff;
     padding: 10px;
@@ -14243,11 +14247,9 @@ table caption {
     margin: 0 auto;
     margin-bottom: 25px;
 }
-
 .contagem p {
     color: #fff;
 }
-
 
 #overlay {
     width: 100vw;
@@ -14305,6 +14307,29 @@ table caption {
     width: 30px;
     height: 30px;
 }
-#servicos .services-content {
-    min-height: 185px;
+
+.btn-danger, .btn-danger.disabled, .btn-danger:disabled {
+
+    background-color: #1f6bb5;
+    border-color: #1f6bb5;
+    color: #FFF;
+
+}
+
+.contagem-fundo {
+    background-color: #1f6bb5;
+}
+
+#recomendacao .services-item {
+    min-height: 236px;
+
+display: flex;
+
+align-items: center;
+
+flex-direction: column;
+
+align-content: center;
+
+justify-content: center;
 }
