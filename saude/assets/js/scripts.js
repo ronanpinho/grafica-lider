@@ -17,8 +17,8 @@ $(function() {
 
 setInterval(function time(){
     var d = new Date();
-    var days = 2 - d.getDay();
-    var hours = 24 - d.getHours();
+    var days = d.getDay() + 1 - d.getDay();
+    var hours = d.getHours() + 1 - d.getHours();
     var min = 60 - d.getMinutes();
     if((min + '').length == 1){
         min = '0' + min;

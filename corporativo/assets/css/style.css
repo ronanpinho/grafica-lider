@@ -14246,6 +14246,7 @@ table caption {
     border-radius: 3px;
     margin: 0 auto;
     margin-bottom: 25px;
+    width: 100%;
 }
 .contagem p {
     color: #fff;
@@ -14318,4 +14319,23 @@ table caption {
 
 .contagem-fundo {
     background-color: #1f6bb5;
+}
+
+.single-contact {
+    margin-bottom: 20px!important;
+}
+
+.faixa {
+    position: absolute;
+    left: 0;
+    /* background: red; */
+    padding-left: 40px;
+    padding-right: 40px;
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    /* transform: rotate(-44deg); */
+    margin-top: -53px;
+    margin-left: -25px;
 }

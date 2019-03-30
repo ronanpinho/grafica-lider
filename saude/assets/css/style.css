@@ -14246,6 +14246,7 @@ table caption {
     border-radius: 3px;
     margin: 0 auto;
     margin-bottom: 25px;
+    width: 100%;
 }
 .contagem p {
     color: #fff;
@@ -14332,4 +14333,31 @@ flex-direction: column;
 align-content: center;
 
 justify-content: center;
+}
+
+.single-contact {
+    margin-bottom: 20px!important;
+}
+
+ul.services-content li:before {
+    content: '';
+    background: url('../img/checked.svg');
+    width: 10px;
+    height: 10px;
+    position: relative;
+}
+
+.faixa {
+    position: absolute;
+    left: 0;
+    /* background: red; */
+    padding-left: 40px;
+    padding-right: 40px;
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    /* transform: rotate(-44deg); */
+    margin-top: -53px;
+    margin-left: -25px;
 }
