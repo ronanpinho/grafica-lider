@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corporativo/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/corporativo/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/corporativo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/corporativo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saude/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/saude/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/saude/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/saude/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="533" column="27" selection-start-line="533" selection-start-column="27" selection-end-line="533" selection-end-column="27" />
+            <state relative-caret-position="195">
+              <caret line="295" column="39" selection-start-line="295" selection-start-column="30" selection-end-line="295" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -34,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/corporativo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="504" column="33" lean-forward="true" selection-start-line="504" selection-start-column="33" selection-end-line="504" selection-end-column="33" />
+            <state relative-caret-position="197">
+              <caret line="303" column="65" selection-start-line="303" selection-start-column="65" selection-end-line="303" selection-end-column="65" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -54,11 +55,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/saude/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369798">
-              <caret line="14223" column="19" selection-start-line="14223" selection-start-column="19" selection-end-line="14223" selection-end-column="19" />
+            <state relative-caret-position="238">
+              <caret line="14366" column="1" lean-forward="true" selection-start-line="14366" selection-start-column="1" selection-end-line="14366" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/corporativo/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="14346" selection-start-line="14346" selection-end-line="14349" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -154,10 +164,11 @@
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/alimentacao/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/saude/assets/css/style.css" />
         <option value="$PROJECT_DIR$/alimentacao/index.html" />
         <option value="$PROJECT_DIR$/corporativo/index.html" />
         <option value="$PROJECT_DIR$/saude/index.html" />
+        <option value="$PROJECT_DIR$/corporativo/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/saude/assets/css/style.css" />
       </list>
     </option>
   </component>
@@ -185,6 +196,19 @@
               <item name="kaf-grafica" type="b2602c69:ProjectViewProjectNode" />
               <item name="grafica-lider" type="462c0819:PsiDirectoryNode" />
               <item name="corporativo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaf-grafica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grafica-lider" type="462c0819:PsiDirectoryNode" />
+              <item name="corporativo" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaf-grafica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grafica-lider" type="462c0819:PsiDirectoryNode" />
+              <item name="corporativo" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kaf-grafica" type="b2602c69:ProjectViewProjectNode" />
@@ -314,18 +338,18 @@
       <workItem from="1553590169280" duration="6100000" />
       <workItem from="1553626958745" duration="4301000" />
       <workItem from="1553701576747" duration="3026000" />
-      <workItem from="1554818543213" duration="3920000" />
+      <workItem from="1554818543213" duration="4497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236799000" />
+    <option name="totallyTimeSpent" value="237376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.16741072" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.16741072" />
       <window_info id="Structure" order="1" sideWeight="0.50769234" side_tool="true" weight="0.2061012" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -337,7 +361,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32998884" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26153848" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26153848" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -369,7 +393,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/fonts/font-awesome.min.css" />
     <entry file="file://$PROJECT_DIR$/assets/fonts/simple-line-icons.css" />
     <entry file="file://$PROJECT_DIR$/assets/js/jquery.nav.js" />
     <entry file="file://$PROJECT_DIR$/assets/js/jquery.slicknav.js" />
@@ -434,13 +457,6 @@
     <entry file="file://$PROJECT_DIR$/assets/css/style.css" />
     <entry file="file://$PROJECT_DIR$/alimentacao/assets/css/style.css" />
     <entry file="file://$PROJECT_DIR$/alimentacao/index.html" />
-    <entry file="file://$PROJECT_DIR$/saude/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369798">
-          <caret line="14223" column="19" selection-start-line="14223" selection-start-column="19" selection-end-line="14223" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/saude/obrigado.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5304">
@@ -458,10 +474,23 @@
     <entry file="file://$PROJECT_DIR$/saude/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/corporativo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="303" column="65" selection-start-line="303" selection-start-column="65" selection-end-line="303" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/saude/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="533" column="27" selection-start-line="533" selection-start-column="27" selection-end-line="533" selection-end-column="27" />
+        <state relative-caret-position="195">
+          <caret line="295" column="39" selection-start-line="295" selection-start-column="30" selection-end-line="295" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -473,16 +502,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/corporativo/index.html">
+    <entry file="file://$PROJECT_DIR$/corporativo/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="504" column="33" lean-forward="true" selection-start-line="504" selection-start-column="33" selection-end-line="504" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="276">
+          <caret line="14346" selection-start-line="14346" selection-end-line="14349" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saude/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14366" column="1" lean-forward="true" selection-start-line="14366" selection-start-column="1" selection-end-line="14366" selection-end-column="1" />
         </state>
       </provider>
     </entry>
