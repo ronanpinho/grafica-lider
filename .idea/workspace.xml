@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="" />
+    <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corporativo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/corporativo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saude/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/saude/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,28 +18,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alimentacao/assets/css/style.css">
+        <entry file="file://$PROJECT_DIR$/saude/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369928">
-              <caret line="14228" column="23" selection-start-line="14228" selection-start-column="23" selection-end-line="14228" selection-end-column="23" />
+            <state relative-caret-position="325">
+              <caret line="540" lean-forward="true" selection-start-line="540" selection-end-line="540" />
+              <folding>
+                <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#src#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/saude/index.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/corporativo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="511" column="9" lean-forward="true" selection-start-line="511" selection-start-column="9" selection-end-line="511" selection-end-column="9" />
+            <state relative-caret-position="443">
+              <caret line="504" column="33" lean-forward="true" selection-start-line="504" selection-start-column="33" selection-end-line="504" selection-end-column="33" />
               <folding>
-                <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#src#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,25 +51,14 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/saude/assets/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1429" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/saude/assets/js/scripts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/saude/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="14223" column="19" lean-forward="true" selection-start-line="14223" selection-start-column="19" selection-end-line="14223" selection-end-column="19" />
+            <state relative-caret-position="369798">
+              <caret line="14223" column="19" selection-start-line="14223" selection-start-column="19" selection-end-line="14223" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -71,24 +68,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="5304">
               <caret line="204" column="78" selection-start-line="204" selection-start-column="78" selection-end-line="204" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alimentacao/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="477" column="7" lean-forward="true" selection-start-line="477" selection-start-column="7" selection-end-line="477" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -176,8 +155,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/alimentacao/assets/css/style.css" />
         <option value="$PROJECT_DIR$/saude/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/saude/index.html" />
         <option value="$PROJECT_DIR$/alimentacao/index.html" />
+        <option value="$PROJECT_DIR$/saude/index.html" />
+        <option value="$PROJECT_DIR$/corporativo/index.html" />
       </list>
     </option>
   </component>
@@ -199,36 +179,17 @@
           <expand>
             <path>
               <item name="kaf-grafica" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kafgrafica" type="462c0819:PsiDirectoryNode" />
+              <item name="grafica-lider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kaf-grafica" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kafgrafica" type="462c0819:PsiDirectoryNode" />
-              <item name="alimentacao" type="462c0819:PsiDirectoryNode" />
+              <item name="grafica-lider" type="462c0819:PsiDirectoryNode" />
+              <item name="corporativo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kaf-grafica" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kafgrafica" type="462c0819:PsiDirectoryNode" />
-              <item name="alimentacao" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kaf-grafica" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kafgrafica" type="462c0819:PsiDirectoryNode" />
+              <item name="grafica-lider" type="462c0819:PsiDirectoryNode" />
               <item name="saude" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kaf-grafica" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kafgrafica" type="462c0819:PsiDirectoryNode" />
-              <item name="saude" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kaf-grafica" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kafgrafica" type="462c0819:PsiDirectoryNode" />
-              <item name="saude" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,7 +200,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ronan-pinho-two" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -268,11 +229,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kaf-grafica/saude/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kaf-grafica/alimentacao/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kaf-grafica/corporativo/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="obrigado.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kaf-grafica/saude/obrigado.html" useBuiltInWebServerPort="true">
@@ -281,16 +245,13 @@
     <configuration name="obrigado.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kaf-grafica/alimentacao/obrigado.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="saude.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kaf-grafica/saude.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.obrigado.html (1)" />
         <item itemvalue="JavaScript Debug.obrigado.html" />
-        <item itemvalue="JavaScript Debug.saude.html" />
       </list>
     </recent_temporary>
   </component>
@@ -353,16 +314,18 @@
       <workItem from="1553590169280" duration="6100000" />
       <workItem from="1553626958745" duration="4301000" />
       <workItem from="1553701576747" duration="3026000" />
+      <workItem from="1554818543213" duration="3582000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232879000" />
+    <option name="totallyTimeSpent" value="236461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.16741072" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.16741072" />
       <window_info id="Structure" order="1" sideWeight="0.50769234" side_tool="true" weight="0.2061012" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -406,7 +369,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/curso.html" />
     <entry file="file://$PROJECT_DIR$/assets/fonts/font-awesome.min.css" />
     <entry file="file://$PROJECT_DIR$/assets/fonts/simple-line-icons.css" />
     <entry file="file://$PROJECT_DIR$/assets/js/jquery.nav.js" />
@@ -448,13 +410,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alimentacao/obrigado.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1742">
-          <caret line="67" column="50" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/alimentacao/obrigado.html" />
     <entry file="file://$PROJECT_DIR$/saude.html" />
     <entry file="file://$PROJECT_DIR$/bar-e-restaurante.html" />
     <entry file="file://$PROJECT_DIR$/sitemap.xml">
@@ -476,10 +432,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/alimentacao/assets/css/style.css">
+    <entry file="file://$PROJECT_DIR$/alimentacao/assets/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/alimentacao/index.html" />
+    <entry file="file://$PROJECT_DIR$/saude/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369928">
-          <caret line="14228" column="23" selection-start-line="14228" selection-start-column="23" selection-end-line="14228" selection-end-column="23" />
+        <state relative-caret-position="369798">
+          <caret line="14223" column="19" selection-start-line="14223" selection-start-column="19" selection-end-line="14223" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -490,55 +448,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/saude/assets/css/style.css">
+    <entry file="file://$PROJECT_DIR$/saude/assets/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="14223" column="19" lean-forward="true" selection-start-line="14223" selection-start-column="19" selection-end-line="14223" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alimentacao/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="477" column="7" lean-forward="true" selection-start-line="477" selection-start-column="7" selection-end-line="477" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saude/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="511" column="9" lean-forward="true" selection-start-line="511" selection-start-column="9" selection-end-line="511" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="235">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/saude/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saude/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1429" />
+        <state relative-caret-position="325">
+          <caret line="540" lean-forward="true" selection-start-line="540" selection-end-line="540" />
+          <folding>
+            <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/saude/assets/js/scripts.js">
+    <entry file="file://$PROJECT_DIR$/corporativo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="443">
+          <caret line="504" column="33" lean-forward="true" selection-start-line="504" selection-start-column="33" selection-end-line="504" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
